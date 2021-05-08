@@ -257,7 +257,7 @@ li.logo a {
 }
 
 .promo-info {
-  padding-top: 140px;
+  padding: 90px 0px;
 }
 .promo-info h3 {
   font-size: 20px;
@@ -449,6 +449,7 @@ li.logo a {
 .portfolio-nav {
   margin-top: 30px;
   margin-left: 15px;
+  display: inline-flex !important;
 }
 
 .portfolio-nav ul li {
