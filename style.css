@@ -1954,6 +1954,15 @@ a.read-blog {
   .single-service h3 {
     font-size: 20px;
   }
+  .mobile-display a {
+    background-color: #e2825c;
+    padding: 3px 15px;
+    font-weight: bold;
+    font-size: 25px;
+    color: #fff;
+    line-height: 20px;
+    border-radius: 2px;
+  }
 }
 
 .portfolio-item {
